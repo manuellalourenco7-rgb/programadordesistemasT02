@@ -1,0 +1,14 @@
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\bin\Debug\net8.0\,,,.exe
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\bin\Debug\net8.0\,,,.deps.json
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\bin\Debug\net8.0\,,,.runtimeconfig.json
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\bin\Debug\net8.0\,,,.dll
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\bin\Debug\net8.0\,,,.pdb
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\,,,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\,,,.AssemblyInfoInputs.cache
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\,,,.AssemblyInfo.cs
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\,,,.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\,,,.dll
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\refint\,,,.dll
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\,,,.pdb
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\,,,.genruntimeconfig.cache
+C:\Users\manuella.clourenco\source\repos\,,,\,,,\obj\Debug\net8.0\ref\,,,.dll

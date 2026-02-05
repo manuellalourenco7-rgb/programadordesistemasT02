@@ -1,0 +1,4 @@
+C:\Users\manuella.clourenco\source\repos\Ex3\Ex3\obj\Debug\net8.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuella.clourenco\source\repos\Ex3\Ex3\obj\Debug\net8.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\manuella.clourenco\source\repos\Ex3\Ex3\obj\Debug\net8.0\Ex3.AssemblyInfo.cs
+C:\Users\manuella.clourenco\source\repos\Ex3\Ex3\obj\Debug\net8.0\Ex3.csproj.CoreCompileInputs.cache
