@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\Alertas\bin\Debug\Alertas.exe.config
+C:\Users\manuella.clourenco\source\repos\Alertas\bin\Debug\Alertas.exe
+C:\Users\manuella.clourenco\source\repos\Alertas\bin\Debug\Alertas.pdb
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.Form1.resources
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.exe
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.pdb
+C:\Users\manuella.clourenco\source\repos\Alertas\obj\Debug\Alertas.exe.config

@@ -1,0 +1,15 @@
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\bin\Debug\net8.0\desafios-kautech.exe
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\bin\Debug\net8.0\desafios-kautech.deps.json
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\bin\Debug\net8.0\desafios-kautech.runtimeconfig.json
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\bin\Debug\net8.0\desafios-kautech.dll
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\bin\Debug\net8.0\desafios-kautech.pdb
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.AssemblyInfoInputs.cache
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.AssemblyInfo.cs
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.sourcelink.json
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.dll
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\refint\desafios-kautech.dll
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.pdb
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\desafios-kautech.genruntimeconfig.cache
+C:\Users\manuella.clourenco\source\repos\desafios-kautech\obj\Debug\net8.0\ref\desafios-kautech.dll
