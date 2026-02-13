@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\bin\Debug\calculadorademedia.exe.config
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\bin\Debug\calculadorademedia.exe
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\bin\Debug\calculadorademedia.pdb
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.frmCalculadoraMedia.resources
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.exe
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.pdb
+C:\Users\manuella.clourenco\source\repos\calculadorademedia\obj\Debug\calculadorademedia.exe.config
