@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\calcularidade\bin\Debug\calcularidade.exe.config
+C:\Users\manuella.clourenco\source\repos\calcularidade\bin\Debug\calcularidade.exe
+C:\Users\manuella.clourenco\source\repos\calcularidade\bin\Debug\calcularidade.pdb
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.frmCalcularIdade.resources
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.exe
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.pdb
+C:\Users\manuella.clourenco\source\repos\calcularidade\obj\Debug\calcularidade.exe.config

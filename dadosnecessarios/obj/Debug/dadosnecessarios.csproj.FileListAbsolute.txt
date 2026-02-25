@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\bin\Debug\dadosnecessarios.exe.config
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\bin\Debug\dadosnecessarios.exe
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\bin\Debug\dadosnecessarios.pdb
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.frmFormularioSimples.resources
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.exe
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.pdb
+C:\Users\manuella.clourenco\source\repos\dadosnecessarios\obj\Debug\dadosnecessarios.exe.config
