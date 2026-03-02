@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\bin\Debug\ControledeEstoque.exe.config
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\bin\Debug\ControledeEstoque.exe
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\bin\Debug\ControledeEstoque.pdb
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.frmControleEstoque.resources
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.exe
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.pdb
+C:\Users\manuella.clourenco\source\repos\ControledeEstoque\obj\Debug\ControledeEstoque.exe.config

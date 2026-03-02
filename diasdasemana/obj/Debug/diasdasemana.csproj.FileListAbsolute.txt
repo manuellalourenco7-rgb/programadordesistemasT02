@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.frmDiasSemana.resources
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\diasdasemana\bin\Debug\diasdasemana.exe.config
+C:\Users\manuella.clourenco\source\repos\diasdasemana\bin\Debug\diasdasemana.exe
+C:\Users\manuella.clourenco\source\repos\diasdasemana\bin\Debug\diasdasemana.pdb
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.exe
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.pdb
+C:\Users\manuella.clourenco\source\repos\diasdasemana\obj\Debug\diasdasemana.exe.config
