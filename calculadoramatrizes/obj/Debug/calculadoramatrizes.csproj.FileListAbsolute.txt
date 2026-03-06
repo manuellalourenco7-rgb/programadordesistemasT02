@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\bin\Debug\calculadoramatrizes.exe.config
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\bin\Debug\calculadoramatrizes.exe
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\bin\Debug\calculadoramatrizes.pdb
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.frmMatriz.resources
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.exe
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.pdb
+C:\Users\manuella.clourenco\source\repos\calculadoramatrizes\obj\Debug\calculadoramatrizes.exe.config

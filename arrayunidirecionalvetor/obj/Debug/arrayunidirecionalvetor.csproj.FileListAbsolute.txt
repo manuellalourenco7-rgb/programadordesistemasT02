@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\bin\Debug\arrayunidirecionalvetor.exe.config
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\bin\Debug\arrayunidirecionalvetor.exe
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\bin\Debug\arrayunidirecionalvetor.pdb
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.frmVetor.resources
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.exe
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.pdb
+C:\Users\manuella.clourenco\source\repos\arrayunidirecionalvetor\obj\Debug\arrayunidirecionalvetor.exe.config

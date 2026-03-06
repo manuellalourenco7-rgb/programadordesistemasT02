@@ -1,0 +1,11 @@
+C:\Users\manuella.clourenco\source\repos\sistemalogin\bin\Debug\sistemalogin.exe.config
+C:\Users\manuella.clourenco\source\repos\sistemalogin\bin\Debug\sistemalogin.exe
+C:\Users\manuella.clourenco\source\repos\sistemalogin\bin\Debug\sistemalogin.pdb
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.csproj.AssemblyReference.cache
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.frmLogin.resources
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.Properties.Resources.resources
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.csproj.GenerateResource.cache
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.exe
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.pdb
+C:\Users\manuella.clourenco\source\repos\sistemalogin\obj\Debug\sistemalogin.exe.config
