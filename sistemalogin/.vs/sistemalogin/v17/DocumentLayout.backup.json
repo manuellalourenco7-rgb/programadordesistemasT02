@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B2B951C2-3E3D-43F8-90BC-43527A17CC72}|sistemalogin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B951C2-3E3D-43F8-90BC-43527A17CC72}|sistemalogin.csproj|c:\\users\\manuella.clourenco\\source\\repos\\sistemalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B2B951C2-3E3D-43F8-90BC-43527A17CC72}|sistemalogin.csproj|C:\\Users\\manuella.clourenco\\source\\repos\\sistemalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2B951C2-3E3D-43F8-90BC-43527A17CC72}|sistemalogin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\manuella.clourenco\\source\\repos\\sistemalogin\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\manuella.clourenco\\source\\repos\\sistemalogin\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowEoAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\manuella.clourenco\\source\\repos\\sistemalogin\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T19:17:10.554Z",
               "EditorCaption": ""
@@ -39,11 +39,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\manuella.clourenco\\source\\repos\\sistemalogin\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\manuella.clourenco\\source\\repos\\sistemalogin\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\manuella.clourenco\\source\\repos\\sistemalogin\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T18:31:58.614Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-06T18:31:58.614Z"
             }
           ]
         }

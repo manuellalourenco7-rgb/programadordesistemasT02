@@ -64,6 +64,7 @@ namespace sistemalogin
                         txtSenha.Clear();
                         txtSenha.Focus();
                         return;
+
                         while (tentativasRestantes < 3)
                         {
                             if (txtEmail.Text == emailCorreto && txtSenha.Text == senhaCorreta)

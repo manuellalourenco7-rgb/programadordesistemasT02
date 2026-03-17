@@ -46,7 +46,7 @@
             this.panelTopo.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTopo.Location = new System.Drawing.Point(0, 0);
             this.panelTopo.Name = "panelTopo";
-            this.panelTopo.Size = new System.Drawing.Size(800, 100);
+            this.panelTopo.Size = new System.Drawing.Size(672, 100);
             this.panelTopo.TabIndex = 0;
             // 
             // lblTitulo
@@ -54,7 +54,7 @@
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Modern No. 20", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitulo.ForeColor = System.Drawing.Color.FloralWhite;
-            this.lblTitulo.Location = new System.Drawing.Point(208, 33);
+            this.lblTitulo.Location = new System.Drawing.Point(207, 33);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(418, 29);
             this.lblTitulo.TabIndex = 0;
@@ -65,7 +65,7 @@
             this.lblSubtitulo.AutoSize = true;
             this.lblSubtitulo.Font = new System.Drawing.Font("Modern No. 20", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSubtitulo.ForeColor = System.Drawing.Color.DarkKhaki;
-            this.lblSubtitulo.Location = new System.Drawing.Point(241, 103);
+            this.lblSubtitulo.Location = new System.Drawing.Point(240, 100);
             this.lblSubtitulo.Name = "lblSubtitulo";
             this.lblSubtitulo.Size = new System.Drawing.Size(352, 21);
             this.lblSubtitulo.TabIndex = 1;
@@ -74,14 +74,14 @@
             // txtNumeroInserido
             // 
             this.txtNumeroInserido.Font = new System.Drawing.Font("Modern No. 20", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNumeroInserido.Location = new System.Drawing.Point(326, 154);
+            this.txtNumeroInserido.Location = new System.Drawing.Point(329, 151);
             this.txtNumeroInserido.Name = "txtNumeroInserido";
             this.txtNumeroInserido.Size = new System.Drawing.Size(175, 36);
             this.txtNumeroInserido.TabIndex = 2;
             // 
             // txtResultado
             // 
-            this.txtResultado.Location = new System.Drawing.Point(175, 418);
+            this.txtResultado.Location = new System.Drawing.Point(174, 415);
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.Size = new System.Drawing.Size(485, 20);
             this.txtResultado.TabIndex = 3;
@@ -91,7 +91,7 @@
             this.btnTentar.BackColor = System.Drawing.Color.DarkKhaki;
             this.btnTentar.Font = new System.Drawing.Font("Modern No. 20", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTentar.ForeColor = System.Drawing.Color.FloralWhite;
-            this.btnTentar.Location = new System.Drawing.Point(347, 249);
+            this.btnTentar.Location = new System.Drawing.Point(346, 246);
             this.btnTentar.Name = "btnTentar";
             this.btnTentar.Size = new System.Drawing.Size(141, 43);
             this.btnTentar.TabIndex = 4;
@@ -104,7 +104,7 @@
             this.lblAbaixoBotao.AutoSize = true;
             this.lblAbaixoBotao.Font = new System.Drawing.Font("Modern No. 20", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAbaixoBotao.ForeColor = System.Drawing.Color.DarkKhaki;
-            this.lblAbaixoBotao.Location = new System.Drawing.Point(216, 364);
+            this.lblAbaixoBotao.Location = new System.Drawing.Point(253, 361);
             this.lblAbaixoBotao.Name = "lblAbaixoBotao";
             this.lblAbaixoBotao.Size = new System.Drawing.Size(251, 21);
             this.lblAbaixoBotao.TabIndex = 5;
@@ -115,7 +115,7 @@
             this.lblNumerosTentativas.AutoSize = true;
             this.lblNumerosTentativas.Font = new System.Drawing.Font("Modern No. 20", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNumerosTentativas.ForeColor = System.Drawing.Color.DarkKhaki;
-            this.lblNumerosTentativas.Location = new System.Drawing.Point(495, 352);
+            this.lblNumerosTentativas.Location = new System.Drawing.Point(516, 349);
             this.lblNumerosTentativas.Name = "lblNumerosTentativas";
             this.lblNumerosTentativas.Size = new System.Drawing.Size(47, 36);
             this.lblNumerosTentativas.TabIndex = 6;
@@ -125,7 +125,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.CadetBlue;
+            this.ClientSize = new System.Drawing.Size(672, 450);
             this.Controls.Add(this.lblNumerosTentativas);
             this.Controls.Add(this.lblAbaixoBotao);
             this.Controls.Add(this.btnTentar);

@@ -1,0 +1,15 @@
+C:\Users\manuella.clourenco\source\repos\classeeranca\bin\Debug\net8.0\classeheranca.exe
+C:\Users\manuella.clourenco\source\repos\classeeranca\bin\Debug\net8.0\classeheranca.deps.json
+C:\Users\manuella.clourenco\source\repos\classeeranca\bin\Debug\net8.0\classeheranca.runtimeconfig.json
+C:\Users\manuella.clourenco\source\repos\classeeranca\bin\Debug\net8.0\classeheranca.dll
+C:\Users\manuella.clourenco\source\repos\classeeranca\bin\Debug\net8.0\classeheranca.pdb
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.AssemblyInfoInputs.cache
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.AssemblyInfo.cs
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.csproj.CoreCompileInputs.cache
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.sourcelink.json
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.dll
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\refint\classeheranca.dll
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.pdb
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\classeheranca.genruntimeconfig.cache
+C:\Users\manuella.clourenco\source\repos\classeeranca\obj\Debug\net8.0\ref\classeheranca.dll
